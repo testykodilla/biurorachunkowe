@@ -1,0 +1,75 @@
+.zambotron {
+	padding-top: 10px;
+	height: 100vh;
+	background: url('https://i.imgur.com/5SnhYge.jpg');
+	background-size: cover;
+}
+
+.zambotron a {
+	text-decoration: none;
+	color: #805F15;
+}
+
+.zambotron a:hover {
+	color: #D4B46A;
+}
+
+.dane {
+	margin-top: 30vh;
+	font-size: 2rem;
+	background-color: #FFE5AA;
+	opacity: 0.7;
+	padding: 15px 0px;
+	border-radius: 30%;
+	color: #553B00;
+}
+
+div {
+	text-align: center;
+}
+
+.oferta h1, .cennik h1 {
+	font-size: 70px;
+	padding: 7vh;
+	color: #805F15;
+}
+
+.oferta {
+	background-color: #EEE298;
+	color: #805F15;
+}
+
+.oferta h2, .cennik h2 {
+	font-size: 40px;
+}
+
+.oferta p, .cennik p {
+	font-size: 30px;
+}
+
+.ksiegi,
+.kadry, 
+.kpir, 
+.zaleglosci,
+.cennik div {
+	padding-bottom: 7vh;
+}
+
+.kwota {
+	color: #56A24E;
+}
+
+footer {
+	background-color: #f7f7f7;
+    color: #292b2c;
+	padding-left: 10px;
+}
+
+footer a {
+	color: #292b2c;
+}
+
+footer a:hover {
+	text-decoration: none;
+	color: #292b2c;
+}
