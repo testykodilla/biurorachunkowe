@@ -73,3 +73,13 @@ footer a:hover {
 	text-decoration: none;
 	color: #292b2c;
 }
+
+@media (max-width: 550px) {
+	.dane h1 {
+		font-size: 20px;
+	}
+
+	.dane h2 {
+		font-size: 18px;
+	}
+}
